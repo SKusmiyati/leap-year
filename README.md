@@ -13,17 +13,9 @@ The project was created as part of an academic assignment to practice **UI/UX de
 ---
 
 ## 📂 Repository Structure
-
 leap-year/
-│── src/ # MATLAB source code (.m and .mlapp)
-│── preview/ # Flowchart and screenshots of the app
-│   ├── uileapyear.png
-│   ├── leapyear.png
-│   ├── result1.png
-│   ├── result2.png
-│   ├── result3.png
-│── README.md # Project description
-|── LICENSE
+- `src/` : MATLAB source code (`.mlapp` and `.m` files).
+- `preview/` : Screenshots and flowcharts used in the report.
 
 ---
 
